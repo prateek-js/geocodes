@@ -1,0 +1,20 @@
+{
+  "name": "GeoApp",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "async": "^2.0.0-rc.3",
+    "blueimp-md5": "*",
+    "body-parser": "*",
+    "easy-zip": "*",
+    "exec": "*",
+    "express": "*",
+    "fs": "*",
+    "fs-extra": "^0.26.7",
+    "http": "*",
+    "node-static": "*",
+    "path": "*",
+    "rimraf": "*",
+    "zip-local": "*"
+  }
+}
